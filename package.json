@@ -1,0 +1,18 @@
+{
+  "name": "50projects50days-master",
+  "version": "1.0.0",
+  "description": "This is the main repository for all of the projects in the course.",
+  "main": "expanding-cards.js",
+  "dependencies": {},
+  "devDependencies": {
+
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
